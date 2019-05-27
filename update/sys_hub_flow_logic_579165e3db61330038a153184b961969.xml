@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_logic">
+    <sys_hub_flow_logic action="INSERT_OR_UPDATE">
+        <block display_value="">139165e3db61330038a153184b961968</block>
+        <comment/>
+        <connected_to/>
+        <decision_table/>
+        <decision_table_inputs/>
+        <display_text/>
+        <flow display_value="NeedIt Fulfillment">a9c27a14db21330038a153184b9619bc</flow>
+        <inputs/>
+        <logic_definition display_value="Decision">b1f542d673331300612c273ffff6a7c7</logic_definition>
+        <order>3.2.4</order>
+        <outputs_assigned/>
+        <outputs_to_assign/>
+        <parent_ui_id>4b910d01-4c66-476f-83a6-358c7a97b893</parent_ui_id>
+        <sys_class_name>sys_hub_flow_logic</sys_class_name>
+        <sys_created_by>lorenz</sys_created_by>
+        <sys_created_on>2019-05-27 08:26:43</sys_created_on>
+        <sys_id>579165e3db61330038a153184b961969</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_flow_logic_579165e3db61330038a153184b961969</sys_update_name>
+        <sys_updated_by>lorenz</sys_updated_by>
+        <sys_updated_on>2019-05-27 09:25:50</sys_updated_on>
+        <ui_id>7e4b6ea7-91a8-43bb-854b-59ac9643c106</ui_id>
+        <workflow_inputs/>
+        <workflow_reference/>
+    </sys_hub_flow_logic>
+    <sys_variable_value action="delete_multiple" query="document_key=579165e3db61330038a153184b961969"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_flow_logic</document>
+        <document_key>579165e3db61330038a153184b961969</document_key>
+        <order>200</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>lorenz</sys_created_by>
+        <sys_created_on>2019-05-27 08:26:43</sys_created_on>
+        <sys_id>db9165e3db61330038a153184b96196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>lorenz</sys_updated_by>
+        <sys_updated_on>2019-05-27 08:26:43</sys_updated_on>
+        <value>b247559ddb21330038a153184b96198e</value>
+        <variable display_value="">70ef385873002300612c273ffff6a764</variable>
+    </sys_variable_value>
+</record_update>
